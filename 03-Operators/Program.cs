@@ -15,23 +15,5 @@ Console.WriteLine(multiply);
 Console.WriteLine(divide);
 Console.WriteLine(remainder); 
 
-// =======================
-// Assignment Operators
-// =======================
 
-int a = 10;
 
-a += 5;
-Console.WriteLine(a);
-
-a -= 3;
-Console.WriteLine(a);
-
-a *= 2;
-Console.WriteLine(a);
-
-a /= 4;
-Console.WriteLine(a);
-
-a %= 2;
-Console.WriteLine(a);
